@@ -1,8 +1,8 @@
 # Consul-ML. Machine learning code for Consul.
 
-This repository contains Natural Language Processing developed for the [Consul](https://consulproject.org) platform. This is a project of the University of Warwick and the Alan Turing Institute.
+This repository contains **Natural Language Processing** code developed for the [Consul](https://consulproject.org) platform. This is a project of the University of Warwick and the Alan Turing Institute.
 
-The code and experiments related are detailed in https://arxiv.org/abs/2103.00508
+Experiments using this code and a description of the techniques implemented are detailed in https://arxiv.org/abs/2103.00508
 
 The current version of the code contains the following submodules:
 
